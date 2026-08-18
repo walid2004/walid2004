@@ -34,15 +34,8 @@
               @@@@@#+-:----=+*####***+****###%###=---=*#@@@
           @@@@#+=---:::-----=+##############%%#*=---------=*%@@
      @@@@%*+-:::------:----::-=*##########%%%#=::-------------=*@@@
- @@@#*=--::::--------------:::.-=+##%%%%%%%%+:.:::---------------=*#@@@
-%*=-:-----------------------:::::::-=*%%%%*-:.:-----------------------=*%@@
--:---------------------------+-:::::::=*=:::::-*=-------------------------=*%@
------------------------------=-------:::::-----------------------------------=*@
---------------------------------------------------------------------------------
--------------------------------------+@+----------------------------------------
---------------------------------------==----=-------------=====-----------------
 
-I'm an Artificial Intelligence student at the Deggendorf Institute of Technology. I spend most of my time building end-to-end machine learning pipelines and reliable backend systems. When it comes to AI, I care a lot about system stability. I prefer building deterministic architectures that actually work in production over just throwing a generative model at every problem and hoping for the best.
+An Artificial Intelligence student at the Deggendorf Institute of Technology. I spend most of my time building end-to-end machine learning pipelines and reliable backend systems. When it comes to AI, I care a lot about system stability. I prefer building deterministic architectures that actually work in production over just throwing a generative model at every problem and hoping for the best.
 
 ### What I work with
 * **Languages & Frameworks:** Python, TypeScript, Node.js, FastAPI
